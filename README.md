@@ -1,3 +1,5 @@
+AlekoNo is editing this file for second time, now from the thinkpad's desktop
+
 Alejandro AlekoNo is editing this file
 
 # Classical Aerodynamics with Python
